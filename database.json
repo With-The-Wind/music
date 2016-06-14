@@ -1,0 +1,51 @@
+﻿[
+  {
+    "filename": "./musics/1.mp3",
+    "duration": "02:45",
+    "title": "字母歌",
+    "album": "字母歌",
+    "artist": "邓超"
+  },
+  {
+    "filename": "./musics/2.mp3",
+    "duration": "03:28",
+    "title": "恋人心",
+    "album": "恋人心",
+    "artist": "魏新雨"
+  },
+  {
+    "filename": "./musics/3.mp3",
+    "duration": "04:21",
+    "title": "演员",
+    "album": "绅士",
+    "artist": "薛之谦"
+  },
+  {
+    "filename": "./musics/4.mp3",
+    "duration": "04:34",
+    "title": "李白",
+    "album": "李白",
+    "artist": "李荣浩"
+  },
+  {
+    "filename": "./musics/5.mp3",
+    "duration": "04:29",
+    "title": "地老天荒",
+    "album": "地老天荒",
+    "artist": "张丹峰"
+  },
+  {
+    "filename": "./musics/6.mp3",
+    "duration": "03:42",
+    "title": "半壶纱",
+    "album": "半壶纱",
+    "artist": "刘珂矣"
+  },
+  {
+    "filename": "./musics/7.mp3",
+    "duration": "03:53",
+    "title": "逆战",
+    "album": "跨年演唱会2012-2013 华语篇2",
+    "artist": "张杰"
+  }
+]
